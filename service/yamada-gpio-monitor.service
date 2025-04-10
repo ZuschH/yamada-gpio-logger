@@ -1,0 +1,13 @@
+
+[Unit]
+Description=Yamada GPIO Logger Service
+After=network.target
+
+[Service]
+ExecStart=/opt/YamadaDobby/yamada-gpio-logger/gpio_monitor
+Restart=always
+User=pi
+Group=pi
+
+[Install]
+WantedBy=multi-user.target
