@@ -1,0 +1,29 @@
+
+# Build files
+/build/
+/*.o
+/*.out
+/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+/log/*.log
+*.log
+
+# Editor/IDE
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# System
+*.pid

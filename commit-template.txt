@@ -1,0 +1,19 @@
+
+# Commit Message Template for Yamada GPIO Logger
+# ----------------------------------------------------
+# <type>: <short summary>
+#
+# [Optional more detailed description here]
+#
+# Types:
+# - feat:     A new feature
+# - fix:      A bug fix
+# - docs:     Documentation only changes
+# - style:    Changes that do not affect meaning (whitespace, formatting)
+# - refactor: Code change that neither fixes a bug nor adds a feature
+# - perf:     Performance improvement
+# - test:     Adding/modifying tests
+# - chore:    Other changes that don’t modify src or tests
+#
+# Example:
+# feat: Add support for customer profile switching in dialog UI
